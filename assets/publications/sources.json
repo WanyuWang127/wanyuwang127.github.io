@@ -1,0 +1,100 @@
+[
+  {
+    "id": "painet",
+    "title": "PAINET: A Principled Efficient Transformer for 3D Dynamics Modeling",
+    "file": "painet.jpg",
+    "source_page": "https://github.com/Icarus1411/PAINET/blob/main/assets/model_overview.jpg",
+    "figure_label": "Model overview from official author repository",
+    "caption": "PAINET model overview: an energy-guided sequence of particle representations, a principled attention layer and an equivariant parallel decoder for 3D dynamics.",
+    "alt": "PAINET architecture with molecular trajectories, an energy-guided attention process and an equivariant parallel decoder.",
+    "width": 2027,
+    "height": 800,
+    "modified": false
+  },
+  {
+    "id": "coatings",
+    "title": "A physics-informed active learning framework for the inverse design of vacuum coatings",
+    "file": "coatings.jpg",
+    "source_page": "https://www.sciopen.com/article/10.26599/FRICT.2026.9441292",
+    "figure_label": "Graphical Abstract",
+    "caption": "Publisher graphical abstract: challenges, closed-loop physics-informed active learning, feature engineering, surrogate ensembles, risk-aware acquisition, vacuum coating experiments, and results.",
+    "alt": "Closed-loop physics-informed active learning framework for the inverse design of vacuum coatings.",
+    "width": 3150,
+    "height": 2187,
+    "modified": false,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "gcpo",
+    "title": "GCPO: Diagnosing and Constraining Subspace Geometry in Rollout RL for LLMs",
+    "file": "gcpo.png",
+    "source_page": "https://github.com/deepnovacore/GCPO",
+    "figure_label": "Official repository teaser figure",
+    "caption": "Six diagnostic panels compare subspace-block enrichment, layer-wise transient overlap and overlap versus validation trajectories for Qwen3-8B on GSM8K and GLM4-9B on MATH500.",
+    "alt": "GCPO diagnostic figure showing subspace overlap heatmaps and training-step validation trajectories for two language models.",
+    "width": 2228,
+    "height": 1128,
+    "modified": false
+  },
+  {
+    "id": "triboelectric-breakdown",
+    "title": "The triboelectric breakdown effect and its impact on device designs",
+    "file": "triboelectric-breakdown.jpg",
+    "source_page": "https://www.sciencedirect.com/science/article/pii/S2666998625003059",
+    "figure_label": "Graphical abstract",
+    "caption": "Publisher graphical abstract showing triboelectric breakdown, contact and separation, and its electric and optical effects in device designs.",
+    "alt": "Triboelectric breakdown schematic with charge separation and electric and optical effects in device designs.",
+    "width": 996,
+    "height": 996,
+    "modified": false
+  },
+  {
+    "id": "tribo-informatics",
+    "title": "Tribo-informatics approach for monitoring the coefficient of friction and its fluctuation in sliding contact based on sound and vibration multi-signals",
+    "file": "tribo-informatics.jpg",
+    "source_page": "https://doi.org/10.1016/j.triboint.2025.111130",
+    "figure_label": "Figure 1 — Experimental setup",
+    "caption": "Experimental tribometer and schematic of synchronized friction, sound pressure, and vibration sensing.",
+    "alt": "Experimental tribometer and schematic of synchronized friction, sound pressure, and vibration sensing.",
+    "width": 2495,
+    "height": 796,
+    "modified": false
+  },
+  {
+    "id": "full-response-teng",
+    "title": "Full-response triboelectric nanogenerator modeling and sensing framework: Zero state and zero input in synergy",
+    "file": "full-response-teng.jpg",
+    "source_page": "https://doi.org/10.1016/j.device.2025.100872",
+    "figure_label": "Graphical abstract",
+    "caption": "Graphical abstract of the full-response TENG showing a rotor-stator circuit and its voltage response.",
+    "alt": "Graphical abstract of the full-response TENG showing a rotor-stator circuit and its voltage response.",
+    "width": 996,
+    "height": 996,
+    "modified": false
+  },
+  {
+    "id": "water-solid",
+    "title": "Water-solid interfaces: Unraveling electrostatic breakdown",
+    "file": "water-solid.jpg",
+    "source_page": "https://www.sciencedirect.com/science/article/abs/pii/S2590238525001778",
+    "figure_label": "Figure 1",
+    "caption": "Figure 1 from the Preview: charge transfer, electrostatic breakdown during droplet spreading and shrinking, conductor configurations, and surface charge-density measurements.",
+    "alt": "Electrostatic breakdown at water-solid interfaces, showing droplet charge transfer and electric fields.",
+    "width": 3387,
+    "height": 4033,
+    "modified": false
+  },
+  {
+    "id": "3d-teng",
+    "title": "Omnidirectional energy harvesting with 3D-TENG for vibration diagnosis",
+    "file": "3d-teng.jpg",
+    "source_page": "https://doi.org/10.1016/j.cej.2025.161022",
+    "figure_label": "Graphical abstract",
+    "caption": "Graphical abstract showing 3D-TENG sensor arrays capturing structural vibration and mapping energy concentration.",
+    "alt": "Graphical abstract showing 3D-TENG sensor arrays capturing structural vibration and mapping energy concentration.",
+    "width": 1000,
+    "height": 531,
+    "modified": false
+  }
+]
